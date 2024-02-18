@@ -12,5 +12,3 @@ Bash Script: Cooked up a nifty Bash script for keeping an eye on disk usage and 
 Java Application: Built a swanky Java desktop app – think student enrollment, grading, and eye-catching data visuals.
 
 
-https://github.com/nwasany74/University-Managment-System-Case-Study-ITI/assets/155104546/08666fcd-d353-413f-a048-67fecbe8c73b
-
